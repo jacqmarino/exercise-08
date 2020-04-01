@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>CatComputing.com</title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
 
